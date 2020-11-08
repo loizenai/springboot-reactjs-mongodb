@@ -63,6 +63,5 @@ Reactjs SpringBoot serial tutorials:
 
 Related posts:
 
-SpringBoot + Angular 9 + PostgreSQL CRUD Example – Architecture Diagram
 - [Angular 10 + Nodejs JWT Token Based Authentication with MongoDB Example – Express RestAPIs + JWT + BCryptjs + Sequelize](https://loizenai.com/angular-10-nodejs-jwt-authentication-MongoDB-examples-tutorials/)
 - [SpringBoot + Angular 9 + PostgreSQL CRUD Example – Architecture Diagram](https://loizenai.com/springboot-angular-9-postgresql-crud-example-architecture-diagram/)
